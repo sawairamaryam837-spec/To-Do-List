@@ -1,6 +1,32 @@
-# React + Vite
+# To Do List
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+📋 To-Do List Project – Sawaira Maryam 🚀
+
+Overview:
+The To-Do List is a simple yet powerful web application designed to help users organize tasks efficiently. It allows you to add, edit, delete, and mark tasks as completed, keeping your day-to-day activities organized and manageable. ✨
+
+Key Features:
+
+➕ Add New Tasks: Quickly add tasks with a title and optional description.
+
+✏️ Edit & Update: Modify tasks as your priorities change.
+
+✔️ Mark as Completed: Keep track of completed tasks with a simple toggle.
+
+🗑️ Delete Tasks: Remove tasks that are no longer needed.
+
+📱 Responsive Design: Works seamlessly on mobile, tablet, and desktop devices.
+
+Tech Stack Used:
+
+💻 HTML, CSS & JavaScript – Core web technologies for structure and interactivity.
+
+⚛️ Optional Frameworks: React.js or Vanilla JS for dynamic updates.
+
+💾 Local Storage – Keeps tasks saved even after closing the browser.
+
+Why This Project:
+This project demonstrates practical UI/UX skills and the ability to manage and manipulate data dynamically, making it a perfect showcase of your front-end development capabilities. 🌟
 
 Currently, two official plugins are available:
 
